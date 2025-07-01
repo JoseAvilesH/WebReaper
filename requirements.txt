@@ -1,0 +1,2 @@
+rich
+sudo apt install whatweb gobuster seclists
